@@ -1,0 +1,321 @@
+<kml xmlns:xsd="https://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="https://www.opengis.net/kml/2.2/" version="1.0">
+  <Document>
+    <name>mapping/sites_nupqu-elk-cwf_20220926.kml</name>
+    <open>1</open>
+    <Folder>
+      <name>SpatialPointsDataFrame</name>
+      <Style id="pnt1">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt2">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt3">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt4">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Style id="pnt5">
+        <LabelStyle>
+          <scale>1.0</scale>
+        </LabelStyle>
+        <IconStyle>
+          <color>#ff007fff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+          </Icon>
+        </IconStyle>
+        <BalloonStyle>
+          <text>$[description]</text>
+        </BalloonStyle>
+      </Style>
+      <Placemark>
+        <name>1004603432</name>
+        <styleUrl>#pnt1</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> pscis_status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_type </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_subtype </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> zone </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> easting </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> northing </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> ktunaxa_response </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geom </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> 1004603432 </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Cadorna </td>
+   <td style="text-align:left;border: 1px solid black;"> MODELLED </td>
+   <td style="text-align:left;border: 1px solid black;"> CBS </td>
+   <td style="text-align:left;border: 1px solid black;"> TBD </td>
+   <td style="text-align:right;border: 1px solid black;"> 11 </td>
+   <td style="text-align:right;border: 1px solid black;"> 639196 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5591178 </td>
+   <td style="text-align:left;border: 1px solid black;"> Needs more info </td>
+   <td style="text-align:left;border: 1px solid black;"> unlikely to exist </td>
+   <td style="text-align:left;border: 1px solid black;"> Not familiar with this site </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (639196 5591178) </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> 1004603432 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-115.03906,50.45607,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1004605514 (197844)</name>
+        <styleUrl>#pnt2</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> pscis_status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_type </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_subtype </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> zone </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> easting </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> northing </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> road_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> habitat_blocked_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> ktunaxa_response </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geom </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> 1004605514 (197844) </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Bighorn </td>
+   <td style="text-align:left;border: 1px solid black;"> HABITAT CONFIRMATION </td>
+   <td style="text-align:left;border: 1px solid black;"> CBS </td>
+   <td style="text-align:left;border: 1px solid black;"> ROUND </td>
+   <td style="text-align:right;border: 1px solid black;"> 11 </td>
+   <td style="text-align:right;border: 1px solid black;"> 657920 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5452802 </td>
+   <td style="text-align:left;border: 1px solid black;"> Cabin FSR </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.6 </td>
+   <td style="text-align:left;border: 1px solid black;"> Advance </td>
+   <td style="text-align:left;border: 1px solid black;"> 8.8% avg gradient but decent habitat upstream, Bighorn important WCT stream. Partial dewatering downstream. </td>
+   <td style="text-align:left;border: 1px solid black;"> This is relatively high elevation so I am uncertain if this tributary offers any useful habitat to resident WCT. FYI, KNC is currently leading the creation of a Wildlife Habitat Area (WHA) on Bighorn Creek to protect WCT habitat. This site will be included within the WHA boundaries </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (657920 5452802) </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> 1004605514 (197844) </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-114.83183,49.20765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1004605937 (197783)</name>
+        <styleUrl>#pnt3</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> pscis_status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_type </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_subtype </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> zone </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> easting </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> northing </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> road_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> habitat_blocked_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> ktunaxa_response </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geom </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> 1004605937 (197783) </td>
+   <td style="text-align:left;border: 1px solid black;"> Trib to Wigwam </td>
+   <td style="text-align:left;border: 1px solid black;"> ASSESSED </td>
+   <td style="text-align:left;border: 1px solid black;"> CBS </td>
+   <td style="text-align:left;border: 1px solid black;"> ROUND </td>
+   <td style="text-align:right;border: 1px solid black;"> 11 </td>
+   <td style="text-align:right;border: 1px solid black;"> 662247 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5431294 </td>
+   <td style="text-align:left;border: 1px solid black;"> Wigwam FSR </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.79 </td>
+   <td style="text-align:left;border: 1px solid black;"> ? </td>
+   <td style="text-align:left;border: 1px solid black;"> Not on shortlist, low quality habitat: dry with poorly defined channel downstream but Wigwam important WCT stream </td>
+   <td style="text-align:left;border: 1px solid black;"> Unlikely that this drainage holds fish. FYI, KNC is currently leading the creation of a Wildlife Habitat Area (WHA) designation for the Wigwam River to protect WCT habitat. This site will be included within the WHA boundaries. </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (662247 5431294) </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> 1004605937 (197783) </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-114.78111,49.01319,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1004606347 (197793)</name>
+        <styleUrl>#pnt4</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> pscis_status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_type </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_subtype </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> zone </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> easting </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> northing </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> road_name </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> habitat_blocked_km </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> ktunaxa_response </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geom </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> 1004606347 (197793) </td>
+   <td style="text-align:left;border: 1px solid black;"> Bean </td>
+   <td style="text-align:left;border: 1px solid black;"> HABITAT CONFIRMATION </td>
+   <td style="text-align:left;border: 1px solid black;"> CBS </td>
+   <td style="text-align:left;border: 1px solid black;"> ROUND </td>
+   <td style="text-align:right;border: 1px solid black;"> 11 </td>
+   <td style="text-align:right;border: 1px solid black;"> 650415 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5463819 </td>
+   <td style="text-align:left;border: 1px solid black;"> Lodgepole FSR </td>
+   <td style="text-align:right;border: 1px solid black;"> 0.88 </td>
+   <td style="text-align:left;border: 1px solid black;"> Advance </td>
+   <td style="text-align:left;border: 1px solid black;"> Large, dry channel, no fish records, abundant pools upstream of xing </td>
+   <td style="text-align:left;border: 1px solid black;"> Think this is a seasonal stream </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (650415 5463819) </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> 1004606347 (197793) </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-114.93066,49.30857,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1024735443</name>
+        <styleUrl>#pnt5</styleUrl>
+        <description><![CDATA[<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> id </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> stream_name </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> pscis_status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_type </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> crossing_subtype </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> zone </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> easting </th>
+   <th style="text-align:right;border: 1px solid black;background-color: yellow !important;"> northing </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> status </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> comments </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> ktunaxa_response </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> geom </th>
+   <th style="text-align:left;border: 1px solid black;background-color: yellow !important;"> name </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border: 1px solid black;"> 1024735443 </td>
+   <td style="text-align:left;border: 1px solid black;"> Abruzzi </td>
+   <td style="text-align:left;border: 1px solid black;"> MODELLED </td>
+   <td style="text-align:left;border: 1px solid black;"> CBS </td>
+   <td style="text-align:left;border: 1px solid black;"> TBD </td>
+   <td style="text-align:right;border: 1px solid black;"> 11 </td>
+   <td style="text-align:right;border: 1px solid black;"> 638867 </td>
+   <td style="text-align:right;border: 1px solid black;"> 5591423 </td>
+   <td style="text-align:left;border: 1px solid black;"> Needs more info </td>
+   <td style="text-align:left;border: 1px solid black;"> unlikely to exist </td>
+   <td style="text-align:left;border: 1px solid black;"> Not familiar with this site. </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 0.5in; "> POINT (638867 5591423) </td>
+   <td style="text-align:left;border: 1px solid black;min-width: 4in; "> 1024735443 </td>
+  </tr>
+</tbody>
+</table>]]></description>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-115.04360,50.45835,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
