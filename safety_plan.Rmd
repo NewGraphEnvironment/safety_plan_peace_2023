@@ -43,8 +43,8 @@ options(scipen=999)
 options(knitr.kable.NA = '--') #'--'
 options(knitr.kable.NAN = '--')
 
-source('R/packages.R')
-source('R/functions.R')
+source('scripts/packages.R')
+source('scripts/functions.R')
 
 name_project_number <- '2023-063'
 name_project_name <- 'sern-peace-fish-passage'
@@ -86,11 +86,12 @@ A summary of sites to be potentially assessed is included as Table \@ref(tab:tab
 
 Al - `r vehicle1`:
 
--   `r hotel1`
+-   `r hotel2`
 
 Mateo - `r vehicle2`:
 
--   `r hotel2`
+
+-   `r hotel1`
 
 ```{r info-hospitals}
 hospital_name <- 'University Hospital of Northern British Columbia'
