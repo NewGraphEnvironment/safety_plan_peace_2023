@@ -1,493 +1,656 @@
 <?xml version="1.0"?>
-<gpx version="1.1" creator="GDAL 3.5.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="1.1" creator="GDAL 3.5.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata><bounds minlat="90.000000000000000" minlon="180.000000000000000" maxlat="1156910.499680658569559" maxlon="1281954.468822742579505"/></metadata>       
 <wpt lat="1119867.28556299302727" lon="1189356.984822610160336">
-  <ele>1002200024.0</ele>
+  <name>1002200024</name>
+  <desc>Moderate 1.45km bt rearing NA</desc>
 </wpt>
 <wpt lat="1106600.233345502056181" lon="1195134.18657864863053">
-  <ele>1002200026.0</ele>
+  <name>1002200026</name>
+  <desc>Moderate 4.92km bt rearing NA</desc>
 </wpt>
 <wpt lat="1114090.563279408728704" lon="1189341.319438840961084">
-  <ele>1002200002.0</ele>
+  <name>1002200002</name>
+  <desc>Moderate 4.68km bt rearing NA</desc>
 </wpt>
 <wpt lat="1104273.563577234046534" lon="1196902.460791148012504">
-  <ele>1002200012.0</ele>
+  <name>1002200012</name>
+  <desc>Moderate 1.13km bt rearing NA</desc>
 </wpt>
 <wpt lat="1104871.415538373403251" lon="1195657.84670695126988">
-  <ele>1002200114.0</ele>
+  <name>1002200114</name>
+  <desc>Moderate 9.78km bt rearing NA</desc>
 </wpt>
 <wpt lat="1106685.150279476540163" lon="1192092.895992486039177">
-  <ele>1002200182.0</ele>
+  <name>1002200182</name>
+  <desc>Moderate 0.39km bt rearing NA</desc>
 </wpt>
 <wpt lat="1095997.209814874920994" lon="1183215.441792114637792">
-  <ele>1002200301.0</ele>
+  <name>1002200301</name>
+  <desc>Moderate 3.3km bt rearing NA</desc>
 </wpt>
 <wpt lat="1095410.455973133677617" lon="1187347.449462282471359">
-  <ele>1002200310.0</ele>
+  <name>1002200310</name>
+  <desc>Moderate 22.11km bt rearing NA</desc>
 </wpt>
 <wpt lat="1108376.390200447523966" lon="1193666.851649559335783">
-  <ele>1002200604.0</ele>
+  <name>1002200604</name>
+  <desc>Moderate 0.64km bt rearing NA</desc>
 </wpt>
 <wpt lat="1099317.284466858254746" lon="1199475.220510701648891">
-  <ele>1002200610.0</ele>
+  <name>1002200610</name>
+  <desc>High 1.96km bt rearing NA</desc>
 </wpt>
 <wpt lat="1097170.011392453918234" lon="1186980.248305233661085">
-  <ele>1002200721.0</ele>
+  <name>1002200721</name>
+  <desc>Moderate 2.49km bt rearing NA</desc>
 </wpt>
 <wpt lat="1110287.575166777474806" lon="1192258.692891155835241">
-  <ele>1002200779.0</ele>
+  <name>1002200779</name>
+  <desc>High 18.81km bt rearing NA</desc>
 </wpt>
 <wpt lat="1100929.500380567274988" lon="1189877.457012313883752">
-  <ele>1002200820.0</ele>
+  <name>1002200820</name>
+  <desc>Moderate 4.23km bt rearing NA</desc>
 </wpt>
 <wpt lat="1102452.712099504424259" lon="1177835.916803220054135">
-  <ele>1002201497.0</ele>
+  <name>1002201497</name>
+  <desc>Moderate 1.77km bt rearing NA</desc>
 </wpt>
 <wpt lat="1110871.284460544819012" lon="1160629.66563970502466">
-  <ele>1002201549.0</ele>
+  <name>1002201549</name>
+  <desc>Moderate 8.49km bt rearing NA</desc>
 </wpt>
 <wpt lat="1095271.811674152500927" lon="1183961.183977363398299">
-  <ele>1002201739.0</ele>
+  <name>1002201739</name>
+  <desc>Moderate 2.29km bt rearing NA</desc>
 </wpt>
 <wpt lat="1097236.482485084794462" lon="1182110.386029498185962">
-  <ele>6539.0</ele>
+  <name>6539</name>
+  <desc>Moderate 33.98km bt rearing twin culverts, inlet embedded approx 10 cm, juvenile fish observed in culvert, subadult (RB) observed, beaver dam at inlet inside culvert, swamp at inlet and outlet</desc>
 </wpt>
 <wpt lat="1106977.29366189870052" lon="1178059.392894311109558">
-  <ele>6558.0</ele>
+  <name>6558</name>
+  <desc>Moderate 8.03km bt rearing twin culvert</desc>
 </wpt>
 <wpt lat="1123878.855632429942489" lon="1187311.481535913422704">
-  <ele>6562.0</ele>
+  <name>6562</name>
+  <desc>Moderate 2.15km bt rearing fresh beaver cuttings on bank. Inlet blocked lower 40% of dia. by LWD. Can't see thru culvert - completely black, possible blockage inside. 10+m road fill</desc>
 </wpt>
 <wpt lat="1119003.944914253195748" lon="1189099.00841969018802">
-  <ele>1002200023.0</ele>
+  <name>1002200023</name>
+  <desc>Moderate 3.08km bt rearing NA</desc>
 </wpt>
 <wpt lat="1125010.248007074464113" lon="1186788.160836403723806">
-  <ele>1002201053.0</ele>
+  <name>1002201053</name>
+  <desc>High 2.23km bt rearing NA</desc>
 </wpt>
 <wpt lat="1128581.366270376369357" lon="1182266.757608869345859">
-  <ele>1002201057.0</ele>
+  <name>1002201057</name>
+  <desc>Moderate 2.96km bt rearing NA</desc>
 </wpt>
 <wpt lat="1122281.948971853358671" lon="1182636.823292433982715">
-  <ele>6617.0</ele>
+  <name>6617</name>
+  <desc>Moderate 5.91km bt rearing twin culverts fill depth over culverts &lt; 1 m. ponded through culverts almost to top of culverts. Pipes are elevated 20 cm above stream/pond bottom. Direction of flow ponded water, no m</desc>
 </wpt>
 <wpt lat="1068407.293085972778499" lon="1205835.42739502992481">
-  <ele>1003700783.0</ele>
+  <name>1003700783</name>
+  <desc>Moderate 13.62km bt rearing NA</desc>
 </wpt>
 <wpt lat="1079114.979866051580757" lon="1205160.762407884467393">
-  <ele>1003702657.0</ele>
+  <name>1003702657</name>
+  <desc>Moderate 0.71km bt rearing NA</desc>
 </wpt>
 <wpt lat="1096474.678375253919512" lon="1199186.320451840758324">
-  <ele>6544.0</ele>
+  <name>6544</name>
+  <desc>Moderate 0.62km bt rearing beaver stop at inlet end, back channel off Crooked River, pipe seems small for amount of water, unable to determine channel width</desc>
 </wpt>
 <wpt lat="1064185.683785240631551" lon="1222986.727284417953342">
-  <ele>1003702092.0</ele>
+  <name>1003702092</name>
+  <desc>Moderate 1.03km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063928.246056171134114" lon="1208158.243903032736853">
-  <ele>1003700158.0</ele>
+  <name>1003700158</name>
+  <desc>Moderate 1.43km bt rearing NA</desc>
 </wpt>
 <wpt lat="1062251.481088813394308" lon="1213278.002849714830518">
-  <ele>1003700002.0</ele>
+  <name>1003700002</name>
+  <desc>High 3.69km bt rearing NA</desc>
 </wpt>
 <wpt lat="1074254.831951096188277" lon="1212400.622232238063589">
-  <ele>1003700009.0</ele>
+  <name>1003700009</name>
+  <desc>Moderate 1.67km bt rearing NA</desc>
 </wpt>
 <wpt lat="1074442.355407592840493" lon="1212252.875042409170419">
-  <ele>1003700010.0</ele>
+  <name>1003700010</name>
+  <desc>High 77.29km bt rearing NA</desc>
 </wpt>
 <wpt lat="1075621.018892001360655" lon="1210235.758530156221241">
-  <ele>1003700015.0</ele>
+  <name>1003700015</name>
+  <desc>Moderate 3.31km bt rearing NA</desc>
 </wpt>
 <wpt lat="1092658.722206262173131" lon="1203294.439669478684664">
-  <ele>1003700023.0</ele>
+  <name>1003700023</name>
+  <desc>Moderate 0.94km bt rearing NA</desc>
 </wpt>
 <wpt lat="1070594.651981513947248" lon="1212224.280340987024829">
-  <ele>1003700033.0</ele>
+  <name>1003700033</name>
+  <desc>Moderate 5.06km bt rearing NA</desc>
 </wpt>
 <wpt lat="1070198.604416714981198" lon="1212071.318112417589873">
-  <ele>1003700034.0</ele>
+  <name>1003700034</name>
+  <desc>Moderate 1.22km bt rearing NA</desc>
 </wpt>
 <wpt lat="1078926.427229703404009" lon="1190882.392416822956875">
-  <ele>1003700069.0</ele>
+  <name>1003700069</name>
+  <desc>Moderate 7.54km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063465.395913682179525" lon="1208134.931433338439092">
-  <ele>1003700159.0</ele>
+  <name>1003700159</name>
+  <desc>Moderate 1.11km bt rearing NA</desc>
 </wpt>
 <wpt lat="1088583.864150343229994" lon="1194588.957522896351293">
-  <ele>1003700401.0</ele>
+  <name>1003700401</name>
+  <desc>Moderate 7.85km bt rearing NA</desc>
 </wpt>
 <wpt lat="1071991.948803632054478" lon="1210699.167606516042724">
-  <ele>1003700539.0</ele>
+  <name>1003700539</name>
+  <desc>Moderate 0.4km bt rearing NA</desc>
 </wpt>
 <wpt lat="1076355.260621924418956" lon="1207516.524610276566818">
-  <ele>1003700554.0</ele>
+  <name>1003700554</name>
+  <desc>Moderate 24.25km bt rearing NA</desc>
 </wpt>
 <wpt lat="1064452.72239957912825" lon="1212030.348170051816851">
-  <ele>1003700756.0</ele>
+  <name>1003700756</name>
+  <desc>Moderate 3.41km bt rearing NA</desc>
 </wpt>
 <wpt lat="1065258.827832046663389" lon="1217195.605491143418476">
-  <ele>1003701075.0</ele>
+  <name>1003701075</name>
+  <desc>Moderate 3.03km bt rearing NA</desc>
 </wpt>
 <wpt lat="1088029.875764994416386" lon="1205682.518799194367602">
-  <ele>1003701558.0</ele>
+  <name>1003701558</name>
+  <desc>High 40.99km bt rearing NA</desc>
 </wpt>
 <wpt lat="1080971.327167719835415" lon="1207646.353978940751404">
-  <ele>1003701847.0</ele>
+  <name>1003701847</name>
+  <desc>High 28.56km bt rearing NA</desc>
 </wpt>
 <wpt lat="1065119.1007172067184" lon="1227272.829629431013018">
-  <ele>1003701877.0</ele>
+  <name>1003701877</name>
+  <desc>Moderate 61.27km bt rearing NA</desc>
 </wpt>
 <wpt lat="1095392.287466228706762" lon="1201886.407396824331954">
-  <ele>1003701948.0</ele>
+  <name>1003701948</name>
+  <desc>Moderate 5.31km bt rearing NA</desc>
 </wpt>
 <wpt lat="1061636.481335218064487" lon="1219074.677056713961065">
-  <ele>1003702091.0</ele>
+  <name>1003702091</name>
+  <desc>Moderate 4.27km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063081.283614746294916" lon="1224458.470947273541242">
-  <ele>1003702093.0</ele>
+  <name>1003702093</name>
+  <desc>Moderate 0.95km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063826.793019384378567" lon="1220295.892485838849097">
-  <ele>1003702096.0</ele>
+  <name>1003702096</name>
+  <desc>Moderate 0.76km bt rearing NA</desc>
 </wpt>
 <wpt lat="1064079.219360769493505" lon="1232120.877328327158466">
-  <ele>1003702097.0</ele>
+  <name>1003702097</name>
+  <desc>Moderate 0.57km bt rearing NA</desc>
 </wpt>
 <wpt lat="1043223.266092048259452" lon="1204024.488664196571335">
-  <ele>1003702267.0</ele>
+  <name>1003702267</name>
+  <desc>Moderate 1.25km bt rearing NA</desc>
 </wpt>
 <wpt lat="1074607.242149661527947" lon="1187266.037911624182016">
-  <ele>1003702445.0</ele>
+  <name>1003702445</name>
+  <desc>Moderate 22.89km bt rearing NA</desc>
 </wpt>
 <wpt lat="1084248.478669504635036" lon="1192317.321901599410921">
-  <ele>1003702450.0</ele>
+  <name>1003702450</name>
+  <desc>Moderate 1.66km bt rearing NA</desc>
 </wpt>
 <wpt lat="1075069.500810549128801" lon="1189926.560628691222519">
-  <ele>1003702614.0</ele>
+  <name>1003702614</name>
+  <desc>Moderate 1.72km bt rearing NA</desc>
 </wpt>
 <wpt lat="1045117.731318974518217" lon="1204044.007121480070055">
-  <ele>1003702643.0</ele>
+  <name>1003702643</name>
+  <desc>Moderate 10.71km bt rearing NA</desc>
 </wpt>
 <wpt lat="1080228.362335754558444" lon="1204613.282190877012908">
-  <ele>1003702663.0</ele>
+  <name>1003702663</name>
+  <desc>Moderate 0.67km bt rearing NA</desc>
 </wpt>
 <wpt lat="1060264.353032968007028" lon="1227196.079833824187517">
-  <ele>1003702696.0</ele>
+  <name>1003702696</name>
+  <desc>Moderate 2.4km bt rearing NA</desc>
 </wpt>
 <wpt lat="1060418.181360355345532" lon="1227746.741766506573185">
-  <ele>1003702697.0</ele>
+  <name>1003702697</name>
+  <desc>Moderate 1.46km bt rearing NA</desc>
 </wpt>
 <wpt lat="1044423.098775945254602" lon="1216180.895050312858075">
-  <ele>1003702816.0</ele>
+  <name>1003702816</name>
+  <desc>Moderate 4.42km bt rearing NA</desc>
 </wpt>
 <wpt lat="1050127.53180764708668" lon="1217021.403933644294739">
-  <ele>1003702819.0</ele>
+  <name>1003702819</name>
+  <desc>Moderate 5.74km bt rearing NA</desc>
 </wpt>
 <wpt lat="1076115.859644971322268" lon="1187254.987046290654689">
-  <ele>1003702959.0</ele>
+  <name>1003702959</name>
+  <desc>Moderate 11.41km bt rearing NA</desc>
 </wpt>
 <wpt lat="1062873.979097618954256" lon="1226511.271848385920748">
-  <ele>1003703069.0</ele>
+  <name>1003703069</name>
+  <desc>Moderate 2.17km bt rearing NA</desc>
 </wpt>
 <wpt lat="1055527.008651108248159" lon="1212155.183446852955967">
-  <ele>1003703209.0</ele>
+  <name>1003703209</name>
+  <desc>High 36.35km bt rearing NA</desc>
 </wpt>
 <wpt lat="1061677.560677427332848" lon="1208854.802158428588882">
-  <ele>1003703210.0</ele>
+  <name>1003703210</name>
+  <desc>Moderate 0.72km bt rearing NA</desc>
 </wpt>
 <wpt lat="1060354.25142250652425" lon="1209969.374749671667814">
-  <ele>1003703222.0</ele>
+  <name>1003703222</name>
+  <desc>High 2.86km bt rearing NA</desc>
 </wpt>
 <wpt lat="1084524.581367104779929" lon="1198048.342199624981731">
-  <ele>1003703290.0</ele>
+  <name>1003703290</name>
+  <desc>Moderate 1.92km bt rearing NA</desc>
 </wpt>
 <wpt lat="1087447.876150471391156" lon="1202704.516716424608603">
-  <ele>1003703294.0</ele>
+  <name>1003703294</name>
+  <desc>Moderate 2.95km bt rearing NA</desc>
 </wpt>
 <wpt lat="1083554.679821564117447" lon="1196769.368327701231465">
-  <ele>1003703332.0</ele>
+  <name>1003703332</name>
+  <desc>Moderate 1.11km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063197.216602123575285" lon="1235266.704905272694305">
-  <ele>1003703344.0</ele>
+  <name>1003703344</name>
+  <desc>Moderate 28.89km bt rearing NA</desc>
 </wpt>
 <wpt lat="1046829.820767601020634" lon="1217722.436858982779086">
-  <ele>1003703412.0</ele>
+  <name>1003703412</name>
+  <desc>Moderate 68.97km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063383.112029998330399" lon="1235317.736690361984074">
-  <ele>1003703446.0</ele>
+  <name>1003703446</name>
+  <desc>Moderate 5.17km bt rearing NA</desc>
 </wpt>
 <wpt lat="1068473.259768270421773" lon="1206776.261664831545204">
-  <ele>1024743865.0</ele>
+  <name>1024743865</name>
+  <desc>Moderate 35.14km bt rearing NA</desc>
 </wpt>
 <wpt lat="1087924.379505815450102" lon="1192769.576709009939805">
-  <ele>6621.0</ele>
+  <name>6621</name>
+  <desc>High 22.03km bt rearing twin culverts. fish above and below. Log jam across the inlet creating as bed drop 5 m in front of the culvert. Evidence of channel widening before the culvert</desc>
 </wpt>
 <wpt lat="1081669.197964534861967" lon="1191017.724025412928313">
-  <ele>6622.0</ele>
+  <name>6622</name>
+  <desc>Moderate 28.96km bt rearing beavers have built dams downstream and u/s of culvert</desc>
 </wpt>
 <wpt lat="1078668.234865402104333" lon="1188890.233011688804254">
-  <ele>6623.0</ele>
+  <name>6623</name>
+  <desc>High 21.54km bt rearing juvenile couarse fish u/s of culvert</desc>
 </wpt>
 <wpt lat="1074101.272067692596465" lon="1188403.879405122250319">
-  <ele>6624.0</ele>
+  <name>6624</name>
+  <desc>Moderate 9.81km bt rearing wetland stream. Logged u/s in channel. Several braided channels u/s. beaver dam d/s creating backwatering. Fish feeding d/s of culvert</desc>
 </wpt>
 <wpt lat="1093386.344310418935493" lon="1203263.593336840160191">
-  <ele>1003700024.0</ele>
+  <name>1003700024</name>
+  <desc>Moderate 3.95km bt rearing NA</desc>
 </wpt>
 <wpt lat="1085958.137078447034582" lon="1223840.20369918551296">
-  <ele>57637.0</ele>
+  <name>57637</name>
+  <desc>Moderate 0km bt rearing Flows into Tacheeda Lake, culvert passes under road and railway. Upstream channel has abundant gravel and cobbles. Some beaver sticks in outlet - should be cleared</desc>
 </wpt>
 <wpt lat="1097011.592702815076336" lon="1218148.322627752553672">
-  <ele>1016603340.0</ele>
+  <name>1016603340</name>
+  <desc>Moderate 7.2km bt rearing NA</desc>
 </wpt>
 <wpt lat="1074764.124665395123884" lon="1271960.836522556375712">
-  <ele>1016602358.0</ele>
+  <name>1016602358</name>
+  <desc>Moderate 4.01km bt rearing NA</desc>
 </wpt>
 <wpt lat="1058470.958247954258695" lon="1280314.75961615331471">
-  <ele>1016602415.0</ele>
+  <name>1016602415</name>
+  <desc>Moderate 1.07km bt rearing NA</desc>
 </wpt>
 <wpt lat="1073749.85287781781517" lon="1274524.968188924714923">
-  <ele>125123.0</ele>
+  <name>125123</name>
+  <desc>Moderate 0km bt rearing NA</desc>
 </wpt>
 <wpt lat="1125413.781261345604435" lon="1194481.325178011786193">
-  <ele>1016602206.0</ele>
+  <name>1016602206</name>
+  <desc>Moderate 1.33km bt rearing NA</desc>
 </wpt>
 <wpt lat="1058936.989810230210423" lon="1281366.345741572091356">
-  <ele>1016602412.0</ele>
+  <name>1016602412</name>
+  <desc>Moderate 0.96km bt rearing NA</desc>
 </wpt>
 <wpt lat="1076201.482917377259582" lon="1263268.010430694557726">
-  <ele>125179.0</ele>
+  <name>125179</name>
+  <desc>High 0km bt rearing High priority candidate for restoration with habitat for rearing and overwintering upstream.  Surveyed upstream for 520 m with no barriers to fish passage present.  Bull trout and rainbow recorded upstream. Some deep pools for overwintering and rearing.  Large woody debris and undercut banks throughout. Sections of gravel suitable for spawning.  Good flow.  Surveyed downstream for 360 m. No barriers observed and none likely downstream of surveyed section due to gradients.  Abundant large woody debris and gravels suitable for spawning.</desc>
 </wpt>
 <wpt lat="1076386.898480902425945" lon="1262618.121036380529404">
-  <ele>125180.0</ele>
+  <name>125180</name>
+  <desc>High 0km bt rearing High priority candidate for restoration. Good habitat.  Surveyed upstream of PSCIS crossing 125186 for a distance of 515 m.  Good flow and abundant cover.  Large woody debris and pools throughout.  Frequet pockets of gravel suitable for spawning. Good candidate.</desc>
 </wpt>
 <wpt lat="1123918.208829117240384" lon="1205083.027838065288961">
-  <ele>1016603408.0</ele>
+  <name>1016603408</name>
+  <desc>Moderate 1.47km bt rearing NA</desc>
 </wpt>
 <wpt lat="1059146.465589277213439" lon="1255535.658070426434278">
-  <ele>1016602875.0</ele>
+  <name>1016602875</name>
+  <desc>Moderate 4.26km bt rearing NA</desc>
 </wpt>
 <wpt lat="1063552.842995933257043" lon="1246170.501369350589812">
-  <ele>57689.0</ele>
+  <name>57689</name>
+  <desc>Moderate 0.7km bt rearing NA</desc>
 </wpt>
 <wpt lat="1112831.757782706525177" lon="1217411.078003812581301">
-  <ele>1016602744.0</ele>
+  <name>1016602744</name>
+  <desc>Moderate 12.09km bt rearing NA</desc>
 </wpt>
 <wpt lat="1081778.770246440079063" lon="1222663.307504963362589">
-  <ele>57629.0</ele>
+  <name>57629</name>
+  <desc>Moderate 0km bt rearing Upstream channel medium habitat</desc>
 </wpt>
 <wpt lat="1072989.64331114361994" lon="1266120.015321489423513">
-  <ele>125156.0</ele>
+  <name>125156</name>
+  <desc>Moderate 0km bt rearing Suitable spawning and rearing habitat.</desc>
 </wpt>
 <wpt lat="1075890.112952199066058" lon="1263883.296578777488321">
-  <ele>125177.0</ele>
+  <name>125177</name>
+  <desc>Moderate 0km bt rearing Culvert collapsed.  90% constricted.</desc>
 </wpt>
 <wpt lat="1074841.107462319778278" lon="1257322.67785960319452">
-  <ele>125190.0</ele>
+  <name>125190</name>
+  <desc>Moderate 0km bt rearing NA</desc>
 </wpt>
 <wpt lat="1074613.617180506931618" lon="1256975.852420653682202">
-  <ele>125191.0</ele>
+  <name>125191</name>
+  <desc>Moderate 0.6km bt rearing NA</desc>
 </wpt>
 <wpt lat="1067106.671922305366024" lon="1256522.188445058651268">
-  <ele>57712.0</ele>
+  <name>57712</name>
+  <desc>Moderate 0km bt rearing Channel has abundant gravel, pools and debris.</desc>
 </wpt>
 <wpt lat="1132268.740540153579786" lon="1202389.382012588670477">
-  <ele>1016600017.0</ele>
+  <name>1016600017</name>
+  <desc>Moderate 8.36km bt rearing NA</desc>
 </wpt>
 <wpt lat="1092753.009066447382793" lon="1253487.428124291123822">
-  <ele>1016600144.0</ele>
+  <name>1016600144</name>
+  <desc>Moderate 1.07km bt rearing NA</desc>
 </wpt>
 <wpt lat="1088988.436125058447942" lon="1247456.048022536560893">
-  <ele>1016600177.0</ele>
+  <name>1016600177</name>
+  <desc>Moderate 1.18km bt rearing NA</desc>
 </wpt>
 <wpt lat="1068553.69400726724416" lon="1251418.382382826413959">
-  <ele>1016600517.0</ele>
+  <name>1016600517</name>
+  <desc>Moderate 3.35km bt rearing NA</desc>
 </wpt>
 <wpt lat="1076583.58406744687818" lon="1228208.747269455110654">
-  <ele>1016600618.0</ele>
+  <name>1016600618</name>
+  <desc>Moderate 10.82km bt rearing NA</desc>
 </wpt>
 <wpt lat="1091605.016350778983906" lon="1223062.673451996874064">
-  <ele>1016600844.0</ele>
+  <name>1016600844</name>
+  <desc>High 1.01km bt rearing NA</desc>
 </wpt>
 <wpt lat="1099148.986572229070589" lon="1229658.013099918141961">
-  <ele>1016601023.0</ele>
+  <name>1016601023</name>
+  <desc>Moderate 2.84km bt rearing NA</desc>
 </wpt>
 <wpt lat="1102637.888454179279506" lon="1231391.493748783366755">
-  <ele>1016601042.0</ele>
+  <name>1016601042</name>
+  <desc>Moderate 2.39km bt rearing NA</desc>
 </wpt>
 <wpt lat="1111983.937889267224818" lon="1209429.382988704135641">
-  <ele>1016601126.0</ele>
+  <name>1016601126</name>
+  <desc>Moderate 6.89km bt rearing NA</desc>
 </wpt>
 <wpt lat="1107144.876983684953302" lon="1219162.867255951743573">
-  <ele>1016601161.0</ele>
+  <name>1016601161</name>
+  <desc>High 2.59km bt rearing NA</desc>
 </wpt>
 <wpt lat="1156910.499680658569559" lon="1215196.686057803221047">
-  <ele>1016601241.0</ele>
+  <name>1016601241</name>
+  <desc>Moderate 4.78km bt rearing NA</desc>
 </wpt>
 <wpt lat="1123031.745488903718069" lon="1200296.339899064041674">
-  <ele>1016601376.0</ele>
+  <name>1016601376</name>
+  <desc>Moderate 12.63km bt rearing NA</desc>
 </wpt>
 <wpt lat="1079725.483626212459058" lon="1278074.961770061403513">
-  <ele>1016601529.0</ele>
+  <name>1016601529</name>
+  <desc>High 16.74km bt rearing NA</desc>
 </wpt>
 <wpt lat="1124930.49606652976945" lon="1204188.316488415468484">
-  <ele>1016601997.0</ele>
+  <name>1016601997</name>
+  <desc>Moderate 1.96km bt rearing NA</desc>
 </wpt>
 <wpt lat="1059218.815242527984083" lon="1281954.468822742579505">
-  <ele>1016602413.0</ele>
+  <name>1016602413</name>
+  <desc>Moderate 0.35km bt rearing NA</desc>
 </wpt>
 <wpt lat="1074866.123562407447025" lon="1266097.409044665517285">
-  <ele>1016602495.0</ele>
+  <name>1016602495</name>
+  <desc>Moderate 0.6km bt rearing NA</desc>
 </wpt>
 <wpt lat="1118370.289248483488336" lon="1203048.343076453078538">
-  <ele>1016602569.0</ele>
+  <name>1016602569</name>
+  <desc>Moderate 1.02km bt rearing NA</desc>
 </wpt>
 <wpt lat="1114594.888823622604832" lon="1206572.616563163232058">
-  <ele>1016602686.0</ele>
+  <name>1016602686</name>
+  <desc>Moderate 5.57km bt rearing NA</desc>
 </wpt>
 <wpt lat="1089466.288624564418569" lon="1225693.622975739650428">
-  <ele>1016602773.0</ele>
+  <name>1016602773</name>
+  <desc>High 13.38km bt rearing NA</desc>
 </wpt>
 <wpt lat="1058771.71757899154909" lon="1254484.144595841644332">
-  <ele>1016602876.0</ele>
+  <name>1016602876</name>
+  <desc>Moderate 2.09km bt rearing NA</desc>
 </wpt>
 <wpt lat="1082564.932054144795984" lon="1230994.795158478897065">
-  <ele>1016603206.0</ele>
+  <name>1016603206</name>
+  <desc>Moderate 7.53km bt rearing NA</desc>
 </wpt>
 <wpt lat="1086718.479587412672117" lon="1230256.596121341455728">
-  <ele>1016603267.0</ele>
+  <name>1016603267</name>
+  <desc>Moderate 6.93km bt rearing NA</desc>
 </wpt>
 <wpt lat="1095753.792219942901284" lon="1219482.778973107924685">
-  <ele>1016603358.0</ele>
+  <name>1016603358</name>
+  <desc>Moderate 0.45km bt rearing NA</desc>
 </wpt>
 <wpt lat="1095175.210849608760327" lon="1220402.006869659759104">
-  <ele>1016603359.0</ele>
+  <name>1016603359</name>
+  <desc>Moderate 3.67km bt rearing NA</desc>
 </wpt>
 <wpt lat="1120204.205915155354887" lon="1209014.12821078998968">
-  <ele>1016603416.0</ele>
+  <name>1016603416</name>
+  <desc>Moderate 1.54km bt rearing NA</desc>
 </wpt>
 <wpt lat="1118967.528021190548316" lon="1210490.528112620580941">
-  <ele>1016603422.0</ele>
+  <name>1016603422</name>
+  <desc>Moderate 3.19km bt rearing NA</desc>
 </wpt>
 <wpt lat="1108322.588775189593434" lon="1239592.515543231740594">
-  <ele>1016603757.0</ele>
+  <name>1016603757</name>
+  <desc>Moderate 0.34km bt rearing NA</desc>
 </wpt>
 <wpt lat="1078134.507866644766182" lon="1241642.200849466957152">
-  <ele>1016603766.0</ele>
+  <name>1016603766</name>
+  <desc>Moderate 1.15km bt rearing NA</desc>
 </wpt>
 <wpt lat="1085346.105737456120551" lon="1240472.878527665510774">
-  <ele>1016604103.0</ele>
+  <name>1016604103</name>
+  <desc>Moderate 0.41km bt rearing NA</desc>
 </wpt>
 <wpt lat="1075483.118952271528542" lon="1242383.64089729776606">
-  <ele>1016604128.0</ele>
+  <name>1016604128</name>
+  <desc>High 4.99km bt rearing NA</desc>
 </wpt>
 <wpt lat="1115155.672608583699912" lon="1216524.738844799809158">
-  <ele>1016604151.0</ele>
+  <name>1016604151</name>
+  <desc>Moderate 1.7km bt rearing NA</desc>
 </wpt>
 <wpt lat="1124431.649211913812906" lon="1214651.847632962977514">
-  <ele>1024704176.0</ele>
+  <name>1024704176</name>
+  <desc>Moderate 1.71km bt rearing NA</desc>
 </wpt>
 <wpt lat="1118729.251475282246247" lon="1211265.547071360517293">
-  <ele>1024704177.0</ele>
+  <name>1024704177</name>
+  <desc>Moderate 10.01km bt rearing NA</desc>
 </wpt>
 <wpt lat="1135412.465198077028617" lon="1190550.227216400206089">
-  <ele>1024718617.0</ele>
+  <name>1024718617</name>
+  <desc>Moderate 0.83km bt rearing NA</desc>
 </wpt>
 <wpt lat="1089512.090429245028645" lon="1248325.54789752047509">
-  <ele>1024740958.0</ele>
+  <name>1024740958</name>
+  <desc>Moderate 1.87km bt rearing NA</desc>
 </wpt>
 <wpt lat="1101303.33760572783649" lon="1226422.287470852723345">
-  <ele>124962.0</ele>
+  <name>124962</name>
+  <desc>Moderate 0.34km bt rearing Two culverts.  Dry. Photos 127-131.</desc>
 </wpt>
 <wpt lat="1061876.308867186540738" lon="1271059.313775379210711">
-  <ele>124998.0</ele>
+  <name>124998</name>
+  <desc>Moderate 4.16km bt rearing Two culverts.</desc>
 </wpt>
 <wpt lat="1073741.190627507166937" lon="1265110.644052089657634">
-  <ele>125149.0</ele>
+  <name>125149</name>
+  <desc>High 5.37km bt rearing NA</desc>
 </wpt>
 <wpt lat="1075837.908507436513901" lon="1258412.73920181253925">
-  <ele>125186.0</ele>
+  <name>125186</name>
+  <desc>Moderate 0.45km bt rearing High priority candidate for restoration. Good habitat.  Surveyed upstream of PSCIS crossing 125186 for a distance of 515 m.  Good flow and abundant cover.  Large woody debris and pools throughout.  Frequet pockets of gravel suitable for spawning. Good candidate.</desc>
 </wpt>
 <wpt lat="1073643.401594068855047" lon="1256372.933941448107362">
-  <ele>125194.0</ele>
+  <name>125194</name>
+  <desc>Moderate 2km bt rearing High rearing habitat, moderate spawning.</desc>
 </wpt>
 <wpt lat="1085951.969167281407863" lon="1239818.131821099901572">
-  <ele>125243.0</ele>
+  <name>125243</name>
+  <desc>High 1.13km bt rearing NA</desc>
 </wpt>
 <wpt lat="1085581.514910908881575" lon="1237514.233099246863276">
-  <ele>125246.0</ele>
+  <name>125246</name>
+  <desc>Moderate 0.4km bt rearing NA</desc>
 </wpt>
 <wpt lat="1085913.95797925721854" lon="1231080.536741246236488">
-  <ele>125252.0</ele>
+  <name>125252</name>
+  <desc>Moderate 2.02km bt rearing Dry bed. Erosion above culvert.</desc>
 </wpt>
 <wpt lat="1064888.537488336674869" lon="1247556.731981419492513">
-  <ele>125428.0</ele>
+  <name>125428</name>
+  <desc>Moderate 10.61km bt rearing NCD.</desc>
 </wpt>
 <wpt lat="1087290.169931903248653" lon="1224568.611263180384412">
-  <ele>57718.0</ele>
+  <name>57718</name>
+  <desc>High 48.1km bt rearing Wide creek upstream and downstream. Fry spotted at outlet. Beaved damn inside left pipe should be removed. Backwatering and/or baffle placement recommended.</desc>
 </wpt>
 <wpt lat="1101902.629996061092243" lon="1228272.19237392465584">
-  <ele>124957.0</ele>
+  <name>124957</name>
+  <desc>Moderate 0km bt rearing NA</desc>
 </wpt>
 <wpt lat="1076969.506080236518756" lon="1219533.011283654952422">
-  <ele>57620.0</ele>
+  <name>57620</name>
+  <desc>Moderate 0km bt rearing Fry observed upstream, may be resident population. Fish sampling recommended to confirm barrier status</desc>
 </wpt>
 <wpt lat="1085688.705256420886144" lon="1233256.917282512644306">
-  <ele>125250.0</ele>
+  <name>125250</name>
+  <desc>Moderate 0km bt rearing NA</desc>
 </wpt>
 <wpt lat="1075482.202367638470605" lon="1260355.918645429192111">
-  <ele>125136.0</ele>
+  <name>125136</name>
+  <desc>Moderate 0km bt rearing No road markers found until 1282.</desc>
 </wpt>
 <wpt lat="1130367.116538760252297" lon="1198595.339226002106443">
-  <ele>1016600013.0</ele>
+  <name>1016600013</name>
+  <desc>Moderate 4.5km bt rearing NA</desc>
 </wpt>
 <wpt lat="1131166.514669346390292" lon="1203175.07299432111904">
-  <ele>1016600194.0</ele>
+  <name>1016600194</name>
+  <desc>Moderate 3.58km bt rearing NA</desc>
 </wpt>
 <wpt lat="1087785.111557390308008" lon="1244519.433283765334636">
-  <ele>1016600903.0</ele>
+  <name>1016600903</name>
+  <desc>Moderate 0.6km bt rearing NA</desc>
 </wpt>
 <wpt lat="1091394.554274932248518" lon="1251868.449406379833817">
-  <ele>1016600930.0</ele>
+  <name>1016600930</name>
+  <desc>Moderate 0.32km bt rearing NA</desc>
 </wpt>
 <wpt lat="1103082.748887019231915" lon="1233793.147532416507602">
-  <ele>1016601708.0</ele>
+  <name>1016601708</name>
+  <desc>Moderate 0.37km bt rearing NA</desc>
 </wpt>
 <wpt lat="1116162.933864554855973" lon="1206709.873813593992963">
-  <ele>1016602610.0</ele>
+  <name>1016602610</name>
+  <desc>Moderate 1.58km bt rearing NA</desc>
 </wpt>
 <wpt lat="1112599.934966056607664" lon="1211149.802814510883763">
-  <ele>1016602778.0</ele>
+  <name>1016602778</name>
+  <desc>Moderate 1.72km bt rearing NA</desc>
 </wpt>
 <wpt lat="1100160.98429586738348" lon="1217288.904847445664927">
-  <ele>1016602782.0</ele>
+  <name>1016602782</name>
+  <desc>Moderate 1.37km bt rearing NA</desc>
 </wpt>
 <wpt lat="1130245.830716943368316" lon="1193269.852880658581853">
-  <ele>1016602938.0</ele>
+  <name>1016602938</name>
+  <desc>Moderate 9.32km bt rearing NA</desc>
 </wpt>
 <wpt lat="1089913.388653109315783" lon="1245798.253587930230424">
-  <ele>1016603263.0</ele>
+  <name>1016603263</name>
+  <desc>Moderate 1.23km bt rearing NA</desc>
 </wpt>
 <wpt lat="1075673.978664061054587" lon="1260950.885412967763841">
-  <ele>125140.0</ele>
+  <name>125140</name>
+  <desc>High 0.33km bt rearing 30 degree skew to road.</desc>
 </wpt>
 <wpt lat="1106831.062470310833305" lon="1240505.439914867980406">
-  <ele>6828.0</ele>
+  <name>6828</name>
+  <desc>Moderate 15.52km bt rearing Fail, SCW ----- think these culverts are only here to prevent the road from washing out when river is high, appears to be a side channel from the river. Completely dry at the moment but looks like high flows come through. Is it really necessary to establish fish passage here?? 20 m upstream creek comes in and flows opposite direction back to river.</desc>
 </wpt>
 <wpt lat="1087149.755339248571545" lon="1229771.001455723308027">
-  <ele>125254.0</ele>
+  <name>125254</name>
+  <desc>Moderate 1.09km bt rearing Culvert completely submerged.</desc>
 </wpt>
 <wpt lat="1082519.11899250978604" lon="1222007.835003429790959">
-  <ele>125375.0</ele>
+  <name>125375</name>
+  <desc>Moderate 0.35km bt rearing NA</desc>
 </wpt>
 <wpt lat="1082525.923744982341304" lon="1222002.553839572705328">
-  <ele>57624.0</ele>
+  <name>57624</name>
+  <desc>Moderate 0.36km bt rearing Good habitat present upstream and downstream</desc>
 </wpt>
 <wpt lat="1082896.226266705896705" lon="1222733.772935335058719">
-  <ele>57633.0</ele>
+  <name>57633</name>
+  <desc>Moderate 0.23km bt rearing NA</desc>
 </wpt>
 <wpt lat="1082876.074989073676988" lon="1222779.561709789559245">
-  <ele>57634.0</ele>
+  <name>57634</name>
+  <desc>Moderate 0.18km bt rearing NA</desc>
 </wpt>
 <wpt lat="1098367.273196630878374" lon="1228741.505557456519455">
-  <ele>6746.0</ele>
+  <name>6746</name>
+  <desc>High 1.47km bt rearing Failed - on constriction - baffled culvert - Fish at culvert - inlet pool depth 8cm - some introduced materials downstream natural weir</desc>
 </wpt>
 </gpx>
