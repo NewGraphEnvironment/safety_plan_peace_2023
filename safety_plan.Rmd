@@ -72,15 +72,16 @@ vehicle2 <- '2007 Toyota Tacoma - gold with canopy'
 
 # `r paste0('Safety Plan - ',name_project_complete)` {.unnumbered .break-after-me}
 
-The latest version of this pdf can be downloaded [here](https://github.com/NewGraphEnvironment/safety_plan_peace_2023/raw/main/docs/safety_plan_sern-peace-fish-passage.pdf).
+The latest version of this pdf can be downloaded [here](`r knitr::asis_output(link_pdf)`).
+
 
 <br>
 
-A zip file which includes kml (google earth) and gpx (garmin) files of the sites to be potentially assessed can be downloaded [here](`r knitr::asis_output(link_kml)`). Georeferenced pdf maps can be accessed and downloaded [here](`r knitr::asis_output(link_fieldmaps)`).
+The main goal of the fieldwork is baseline monitoring using electrofishing with crews from McLeod Lake. We will be at the six permitted electrofishing sites most of the time.  In addition we may spend some time with fish passage (Phase 1) and Phase 2 (Habitat Confirmation) assessments in areas of not only the Parsnip watershed group but also the Carp and Crooked watershed groups. A summary of the electrofishing sites to be potentially assessed is included as Table \@ref(tab:tab-electrofishing-sites). A summary of new assessment sites for fish passage assessment and habitat confirmation to be potentially assessed is included as Table \@ref(tab:tab-priority-sites) with a kml (google earth) and gpx (garmin) file downloadable [here](`r knitr::asis_output(link_kml)`). 
 
 <br>
 
-A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites).  
+Georeferenced pdf maps can be accessed and downloaded [here](`r knitr::asis_output(link_fieldmaps)`).
 
 **Accommodations**
 
@@ -447,27 +448,6 @@ mymap
 
 `r if(gitbook_on){knitr::asis_output("<br>")} else knitr::asis_output("<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>")`
 
-```{r tab-sites}
-table_sites %>% 
-  sf::st_drop_geometry() %>% 
-  arrange(id) %>% 
-  select(id, 
-         Stream = gnis_stream_name, 
-         # watershed_code_50k, 
-         # watershed_code_20k, 
-         utm_easting, 
-         utm_northing, 
-         my_priority_comments
-         ) %>% 
-  kable(caption = 'Potential Phase 1 Assessment locations.', booktabs = T) %>%
-  kableExtra::kable_styling(c("condensed"),
-                            full_width = T,
-                            font_size = font_set)
-  # kableExtra::column_spec(column = c(7), width_max = '1.5in') %>% 
-  # # kableExtra::column_spec(column = c(3,4,7), width_min = '1.0in') %>% 
-  # kableExtra::column_spec(column = c(8), width_max = '2.0in')
-```
-
 ```{r import-fish-sites, results='hide',eval=F}
 # import potential fish sampling sites from the database and burn to csv
 # turned off because only need to run once
@@ -498,15 +478,39 @@ bcfishpass %>% write_csv("data/fish_sampling_sites.csv")
 ```
 
 
-```{r tab-sample-sites}
+```{r tab-electrofishing-sites}
 # make table with potential fish sampling sites from permit
 
 read_csv("data/fish_sampling_sites.csv") %>% 
-  kable(caption = 'Electrofishing Locations') %>% 
+  kable(caption = 'Potential Electrofishing Locations') %>% 
   kableExtra::kable_styling(c("condensed", "responsive"),
                               full_width = T,
                               font_size = font_set)
 ```
+
+
+```{r tab-priority-sites}
+table_sites %>% 
+  sf::st_drop_geometry() %>% 
+  arrange(id) %>% 
+  select(id, 
+         Stream = gnis_stream_name, 
+         my_priority,
+         # watershed_code_50k, 
+         # watershed_code_20k, 
+         utm_easting, 
+         utm_northing, 
+         my_priority_comments
+         ) %>% 
+  kable(caption = 'Potential Phase 1 and Phase 2 Assessment locations.', booktabs = T) %>%
+  kableExtra::kable_styling(c("condensed"),
+                            full_width = T,
+                            font_size = font_set)
+  # kableExtra::column_spec(column = c(7), width_max = '1.5in') %>% 
+  # # kableExtra::column_spec(column = c(3,4,7), width_min = '1.0in') %>% 
+  # kableExtra::column_spec(column = c(8), width_max = '2.0in')
+```
+
 
 <br>
 
