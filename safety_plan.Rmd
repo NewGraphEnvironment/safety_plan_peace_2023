@@ -55,7 +55,7 @@ name_project_complete <- paste0(name_project_number, '-', name_project_name)
 link_repo <- paste0('https://newgraphenvironment.github.io/', name_repo, '/')
 link_kml <- paste0('https://github.com/NewGraphEnvironment/', name_repo, '/raw/main/mapping/sites_', name_project_name, '_', format(Sys.Date(), '%Y%m%d'), '_kml_gpx.zip')
 link_pdf <- paste0('https://github.com/NewGraphEnvironment/', name_repo, '/raw/main/docs/', name_pdf, '_', name_project_name, '.pdf')
-link_fieldmaps <- 'https://hillcrestgeo.ca/outgoing/fishpassage/projects/elkr/'
+link_fieldmaps <- 'https://hillcrestgeo.ca/outgoing/fishpassage/projects/parsnip/'
 
 
 ##this is redundant but allows us to keep the gitbook setting for if we move to a better TOC
@@ -76,7 +76,7 @@ The latest version of this pdf can be downloaded [here](https://github.com/NewGr
 
 <br>
 
-A zip file which includes kml (google earth) and gpx (garmin) files of the sites to be potentially assessed can be downloaded [here](https://github.com/NewGraphEnvironment/safety_plan_peace_2023/raw/main/mapping/sites_nupqu-elk-cwf_20220922_kml_gpx.zip). Georeferenced pdf maps can be accessed and downloaded [here](https://hillcrestgeo.ca/outgoing/fishpassage/projects/parsnip/).
+A zip file which includes kml (google earth) and gpx (garmin) files of the sites to be potentially assessed can be downloaded [here](`r knitr::asis_output(link_kml)`). Georeferenced pdf maps can be accessed and downloaded [here](`r knitr::asis_output(link_fieldmaps)`).
 
 <br>
 
@@ -248,6 +248,8 @@ ggmap::ggmap(mybasemap)
 <br>
 
 ## Field Plan {.unnumbered}
+
+The main goal of the fieldwork is baseline monitoring using electrofishing with crews from McLeod Lake. We will be at the 5 or 6 permitted electrofishing sites most of the time.  In addition we may spend some time with fish passage assessments in areas of not only the Parsnip watershed group but also the Carp and Crooked watershed groups.
 
 Field work methods will result in products feeding reporting formats such as [here](https://newgraphenvironment.github.io/fish_passage_parsnip_2021_reporting/) for 2021 and [here](https://newgraphenvironment.github.io/fish_passage_peace_2022_reporting/) for 2022. We generally follow procedures in:
 
@@ -457,7 +459,7 @@ table_sites %>%
          utm_northing, 
          my_priority_comments
          ) %>% 
-  kable(caption = 'Potential sample locations.', booktabs = T) %>%
+  kable(caption = 'Potential Phase 1 Assessment locations.', booktabs = T) %>%
   kableExtra::kable_styling(c("condensed"),
                             full_width = T,
                             font_size = font_set)
