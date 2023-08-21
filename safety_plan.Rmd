@@ -235,7 +235,7 @@ ggmap::register_google(key = Sys.getenv('GOOG_API_KEY'))
 #define the area of the base map by using a bounding box 
 mybasemap <- ggmap::get_map(location = hospital_address,
                      source = "google",
-                     zoom = 15,
+                     zoom = 16,
                     maptype = "roadmap")  
 
 ggmap::ggmap(mybasemap)
